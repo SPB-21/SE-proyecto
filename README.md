@@ -45,6 +45,7 @@ Este proyecto tiene como público primario, personas mayores o de movilidad redu
 
 Otros de los entornos a los que va dirigido es a la supervisión de pacientes encamados o en etapa posoperatoria, deportistas o trabajadores en actividades de riesgo. En esencia se busca disminuir riesgos ante diversas situaciones de vulnerabilidad física en entornos más amplios o remotos. 
 
- 
+## Requerimientos
 
- 
+![alt text](image-1.png)
+![alt text](image-2.png)
