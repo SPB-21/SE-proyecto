@@ -49,3 +49,10 @@ Otros de los entornos a los que va dirigido es a la supervisión de pacientes en
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
+## Diagrama de bloques
+![alt text](Diagrama_bloques.jpeg)
+
+## Esquemático
+![alt text](cxto.jpeg)
+
